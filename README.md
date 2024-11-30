@@ -4,7 +4,7 @@ numero los lleve a una página de registro y allí cuando llene el
 formulario diga al final “gracias por su compra buena suerte” cuando el 
 numero ya este ocupado diga “este número no está disponible escoge otro ”
 
-Lo estoy realizando con react y tailwind css 
+Lo estoy realizando con react y tailwind css.
 
 npm run dev
 
